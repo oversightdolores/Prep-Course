@@ -1,0 +1,18 @@
+/*Variables: las Variables son contenedores que reservan un valor por ejemplo 
+las string contienen datos de tipo "texto" y van encerrados dentro de comillas '' o "" por ejemplo: let saludo = 'hola como estas'
+las numeros contienen datos de tipo numero por ejemplo: let num = 1
+las booleanas contienen datos true o false por ejemplo: let pasas = true o let pasas = false
+
+las condiciones if son si la condicion se cumple ejecuta el codigo dentro del bloque por ejemplo:
+if(4 < 5 ){
+    console.log('la condicion se cumple 4 es menor que 5 ')
+}else{
+    console.log('si la condicion no se cumple ejecuta este codigo')
+}
+
+las funciones son bloques de codigo que se pueden volver a llamar nuvamente desde cualquier parte de la aplicacion por ejemplo la funcion saludar 
+con argumento name 
+function saludar (name){
+    console.log('hola como estas '+ {name})
+}
+*/
