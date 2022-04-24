@@ -1,0 +1,13 @@
+/*bucle FOR es para poder repetir una tarea las veces que sea necesario para llegar a un resultado en ves de hacerlo una por una 
+
+
+
+el operador && AND es para Cuando solo se incluyen valores booleanos (true o false), se devuelve verdadero si las dos expresiones son verdaderas Si una o mas expresiones son falsas devolverá como falsa
+
+
+el operador || OR  es para comparar dos valores  si una es verdadera  o la otra falsa  o si una es falsa o otra es verdadera 
+
+
+
+el ! NO es para es para negar las expreciones por ejemplo  "hola " !== 'hola  en este caso es. si el valos no es igual al otro hacer tal cosa
+*/
