@@ -1,0 +1,49 @@
+*{
+    font-family:sans-serif;
+}
+#index{
+    margin-left: 20%;
+    justify-items: center;
+}
+
+#container{
+    max-width:800px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background: #bdd4eab1;
+}
+#datos{
+    margin-top: 10px;
+    display: flex;
+    flex-direction:row;
+    background: #ffffff;
+    padding: 10px;
+    border: solid 1px black
+    
+}
+#datos img{
+    width:150px;
+    height:150px;
+    border-radius: 100px
+}
+#datos2{
+margin-left: 100px;
+}
+#educacion{
+    padding: 10px;
+    margin-top: 10px;
+    border: solid 1px black;
+    background: #ffffff;
+    min-width: 500px;
+}
+#explab{
+    flex: 1;
+}
+#skills img{
+    width: 100px;
+    height: 100px;
+}
+#sect{
+    margin:10px;
+}

@@ -1,0 +1,27 @@
+
+#container{
+    display:flex;
+    flex-direction: column;
+   align-items: center;
+   
+}
+
+h1{
+    color: silver;
+}
+
+img{
+    height: 400px;
+}
+#thirdDiv{
+    flex:content;
+    width: 600px;
+    height: 500px;
+    background: steelblue;
+    padding: 50spx;
+    border: solid 1px rgb(77, 76, 76);
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
